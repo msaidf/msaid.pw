@@ -1,0 +1,7 @@
+public/
+.idea/
+.httr-oauth
+gs_token.rds
+blogdown/
+*_cache/
+.Rhistory
