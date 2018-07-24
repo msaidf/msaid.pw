@@ -3,7 +3,7 @@
 
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "https://info.msaid.pw/"
+baseurl = "https://msaid.pw/"
 
 # Title of your site
 title = "Muhamad Said Fathurrohman"
@@ -146,7 +146,7 @@ enableGitInfo = false
   #   For more info on the highlighting options, see:
   #   https://sourcethemes.com/academic/post/writing-markdown-latex/#highlighting-options
   highlight = true
-  highlight_languages = []
+  highlight_languages = ["r", "tex", "markdown"]
   # highlight_style = "github"
 
   # Enable native social sharing buttons?

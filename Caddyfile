@@ -1,0 +1,4 @@
+msaid.pw {
+	root /var/www/msaid.pw/public
+	hugo /var/www/msaid.pw/
+	}
