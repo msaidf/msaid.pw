@@ -63,7 +63,7 @@ enableGitInfo = false
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "jepang.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "muh.said@gmail.com"
+  email = "said@feb.unair.ac.id"
   address = "Jl. Airlangga 4, Surabaya, Indonesia"
   office_hours = "Email for appointment"
 
@@ -147,7 +147,7 @@ enableGitInfo = false
   #   https://sourcethemes.com/academic/post/writing-markdown-latex/#highlighting-options
   highlight = true
   highlight_languages = ["r", "tex", "markdown"]
-  # highlight_style = "github"
+  highlight_style = "github"
 
   # Enable native social sharing buttons?
   sharing = true
@@ -223,7 +223,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:muh.said@gmail.com"
+    link = "mailto:said@feb.unair.ac.id"
 
   [[params.social]]
     icon = "twitter"
@@ -264,15 +264,15 @@ enableGitInfo = false
   url = "#posts"
   weight = 3
 
-[[menu.main]]
-  name = "Publications"
-  url = "#publications_selected"
-  weight = 4
+# [[menu.main]]
+#   name = "Publications"
+#   url = "#publications_selected"
+#   weight = 4
 
-[[menu.main]]
-  name = "Projects"
-  url = "#projects"
-  weight = 5
+# [[menu.main]]
+#   name = "Projects"
+#   url = "#projects"
+#   weight = 5
 
 [[menu.main]]
   name = "Contact"
