@@ -5,7 +5,7 @@ draft = false
 
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = []
+tags = ["Software"]
 categories = []
 
 # Featured image
@@ -43,6 +43,3 @@ maka hasil perbandingannya akan nampak seperti di bawah ini.
 Sementara untuk tombol Diff sendiri akan membuka aplikasi diff eksternal yang terinstal di komputer. Untuk mensetup-nya, ikuti petunjuk nomor 2-4 di option ekstensi CloudDiff.
 
 ![](https://d2mxuefqeaa7sj.cloudfront.net/s_EC57CC8791B30B808B9A73C9508C27079FD0F9B76E77FE8A90890E80EB795C19_1530383336046_IMG_20180630_170142.jpg)
-
-
-
