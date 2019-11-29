@@ -5,3 +5,4 @@ gs_token.rds
 blogdown/
 *_cache/
 .Rhistory
+.Rproj.user
